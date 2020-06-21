@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/20StacksGcode/.dotnet/store/|arch|/|tfm|",
+      "/Users/20StacksGcode/.nuget/packages"
+    ]
+  }
+}
